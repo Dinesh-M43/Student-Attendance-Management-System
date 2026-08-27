@@ -1,0 +1,22 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# .NET build output
+bin/
+obj/
+
+# User-specific files
+*.user
+*.rsuser
+
+# Logs
+*.log
+
+# Environment / local configuration
+appsettings.Development.json
+
+# OS files
+.DS_Store
+Thumbs.db
